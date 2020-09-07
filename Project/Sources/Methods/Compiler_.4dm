@@ -434,7 +434,7 @@ C_LONGINT:C283(QR_isValidField ;$1)
 C_LONGINT:C283(QR_isValidField ;$2)
 
   //qr_open_blob
-C_BLOB:C604(qr_open_blob ;$1)
+C_BLOB:C604(qr_open_blob;$1)
 
   //QR_returnBorderFromCollection
 C_OBJECT:C1216(QR_returnBorderFromCollection ;$0)
@@ -672,3 +672,9 @@ C_TEXT:C284(template_LOAD ;$1)
   //xmlColoredSyntax
 C_TEXT:C284(xmlColoredSyntax ;$0)
 C_TEXT:C284(xmlColoredSyntax ;$1)
+
+  //QR_openBlob
+C_BLOB:C604(QR_openBlob ;$1)
+
+  //QR_openBlob
+C_BLOB:C604(QR_openBlob ;$0)

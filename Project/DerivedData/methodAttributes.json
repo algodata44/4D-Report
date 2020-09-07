@@ -25,7 +25,7 @@
 			}
 		},
 		"__test_algodata": {
-			"timeStamp": "2020-09-07T09:01:20.000Z"
+			"timeStamp": "2020-09-07T09:37:36.000Z"
 		},
 		"__WARNINGS AND PRECAUTIONS": {
 			"timeStamp": "2020-09-07T08:57:50.000Z",
@@ -70,7 +70,7 @@
 			}
 		},
 		"Compiler_": {
-			"timeStamp": "2020-09-07T09:03:51.000Z",
+			"timeStamp": "2020-09-07T09:22:39.000Z",
 			"attributes": {
 				"invisible": true
 			}
@@ -822,8 +822,11 @@
 				"invisible": true
 			}
 		},
-		"qr_open_blob": {
-			"timeStamp": "2020-09-07T09:12:36.000Z"
+		"QR_openBlob": {
+			"timeStamp": "2020-09-07T09:36:58.000Z",
+			"attributes": {
+				"shared": true
+			}
 		},
 		"QR_returnBorderFromCollection": {
 			"timeStamp": "2020-09-07T08:57:50.000Z",

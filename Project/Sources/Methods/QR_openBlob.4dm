@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"shared":true}
 
 If (False:C215)
 	  // ----------------------------------------------------
@@ -6,7 +6,7 @@ If (False:C215)
 	  // Date et heure : 07/09/20, 10:59:15
 	  // ----------------------------------------------------
 	  // Méthode :
-	qr_open_blob 
+	QR_openBlob 
 	  // Description
 	  // Open 4D Report tool with a blob
 	  //
@@ -15,12 +15,9 @@ If (False:C215)
 End if 
 
 C_BLOB:C604($1;$blob)
-C_LONGINT:C283($zone)
 
-$zone:=QR New offscreen area:C735
-QR SET REPORT TABLE:C757($zone;Table:C252(->[Society:2]))
-QR INSERT COLUMN:C748($zone;1;->[Society:2]Name:2)
-QR REPORT TO BLOB:C770($zone;$blob)
-QR DELETE OFFSCREEN AREA:C754($zone)
+$blob:=$1
 
-00_OPEN_WIZARD ("";$blob)
+00_OPEN_WIZARD ("_run";$blob)
+
+$0:=C_QR_INITBLOB
