@@ -8,7 +8,7 @@ If (False:C215)
 	  // Méthode :
 	qr_open_blob 
 	  // Description
-	  // 
+	  // Open 4D Report tool with a blob
 	  //
 	  // Paramètres
 	  // ----------------------------------------------------
