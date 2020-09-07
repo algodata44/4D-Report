@@ -1,0 +1,1147 @@
+﻿{
+	"methods": {
+		"00_OPEN_WIZARD": {
+			"timeStamp": "2020-09-07T09:04:10.000Z"
+		},
+		"00_TESTS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"4D_License": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"4D_MainProcess": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"4D_SET_OBJECT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"__test_algodata": {
+			"timeStamp": "2020-09-07T09:01:20.000Z"
+		},
+		"__WARNINGS AND PRECAUTIONS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_colorToStyled": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_hexToDec": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_max": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"_o_db_Get_field_pointer": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"ALIGN_OBJECTS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"area_ADJUST": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_": {
+			"timeStamp": "2020-09-07T09:03:51.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_4D": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER__": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_CONTROL": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_db": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_doc": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_env": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_list": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_mess": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_misc": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_mnu": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_NQR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_ob": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_Obj": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_PATH PICKER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_QR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_report": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Rgx": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_SETTINGS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_subform": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_svg": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_templates": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_TEMPO": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"COMPILER_xml": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_Area_hdl": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_BorderHdl": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_DRAW_SEGMENTS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_Form_hdl": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_Get_color": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_INIT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CONTROL_SET_COLORS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_designFieldName": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_Get_field_icon": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_Get_field_list": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_INIT_STRUCTURE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_virtualFieldName": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_virtualFormulaName": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"db_virtualTableName": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"DEBUG": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"DO NOT OPEN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"doc_getFromPath": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"doc_volumeName": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"env_4D_Resources_folder_path": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"env_Substitute_font": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"HDI_PATH_PICKER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"list_ITEM_COPY_METADATA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"list_SET_DRAG_ICON": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"menu_format": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mess_DISPLAY": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mess_Preferences": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_border": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_borderSubMenu": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_borderThickness": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_breakSpacing": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_Color": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_Font": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_FontSize": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_FontSyle": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"mnu_Justification": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"no_error": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_AREA_HANDLE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_CLEAR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_CLOSE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_DIGEST": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_DO_IT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_doAction": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_DRAW_TABS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_GENERATE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_GET_HEADER_AND_FOOTER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_HEADER_AND_FOOTER_ACTION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_HEADER_AND_FOOTER_ON_RESIZE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_MENU_CELLS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_MENU_COLUMN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_NEW": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_OPEN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_OPTIONS_ACTION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_PAGESETUP": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_PREVIEW": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_RELOAD": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_Save": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SaveAs": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SET_DESTINATION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SET_HEADER_AND_FOOTER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SET_SELECTION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SETTING_GEOMETRY": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_SETTING_HANDLER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_STATUS_BAR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"NQR_TOOLBAR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"ob_GATHER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Obj_ALIGN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Obj_BEST_WIDTH": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Obj_BOUND_WITH_LIST": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Obj_CENTER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Obj_SET_ENABLED": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"path_picker_Get_object": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"path_picker_INIT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"path_picker_SET_LABEL": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"path_picker_SET_TEXT_ATTRIBUTE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"path_picker_UPDATE_UI": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker Get message": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker Get option": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker Get placeholder": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker Get type": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"pathPicker SET DIRECTORY": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"pathPicker SET FILE TYPES": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"pathPicker SET MESSAGE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker SET OPTIONS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker SET PLACEHOLDER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker SET SELECTION OPTION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"PathPicker SET TYPE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_CLEAR_CONTENTS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_DUPLICATE_COLUMN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_border_properties": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_cell_object": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_cell_text": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_color": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_column_format": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_column_type": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_computation": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_font_name": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_font_size": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_font_style": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_Get_justification": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_get_TotalsSpacing": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_is_valid_area": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_isValidField": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"qr_open_blob": {
+			"timeStamp": "2020-09-07T09:07:15.000Z"
+		},
+		"QR_returnBorderFromCollection": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_BORDER_PROPERTIES": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_CELL_DATA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_CELL_DATA_from_widget": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_CELL_OBJECT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_CELL_TEXT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_COLUMN_FORMAT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_COLUMN_WIDTH": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_TEXT_PROPERTY": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SET_TITLE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SWAP_COLUMNS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"QR_SWAP_ROWS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_ADD_COLUMN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_AFTER_EDIT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_AREA_OBJECT_METHOD": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_AREA_UPDATE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_BALLOON_HDL": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_catchErrors": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_cell_content": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_cell_styled_content": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_cell_tips": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_CONTEXTUAL_MENUS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_CREATE_AREA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_DISPLAY_AREA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_DISPLAY_COMMON": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_DISPLAY_CROSS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_DISPLAY_LIST": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_EDIT_COLUMN_FORMULA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_Get_table": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_Get_target": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_INIT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_SELECTION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_SET_CELL_BACKGROUND": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_SET_CELL_FORMAT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_SET_COLUMN_WIDTH": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"report_SET_EVENTS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Rgx_ExtractText": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Rgx_Get_Pattern": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Rgx_MatchText": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"rgx_NO_ERROR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"rgx_Options": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Rgx_SplitText": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Rgx_SubstituteText": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"SETTINGS_DRAW_CROSS_REPORT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"subform_SET_DYNAMIC_VARIABLES": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"subform_SET_OFFSET": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"subform_SET_TIMER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"svg_Get_string_width": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"template_DRAW": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"template_Get_style": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"template_LOAD": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"test__": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"unit_EXECUTE_ALL": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"xmlColoredSyntax": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}

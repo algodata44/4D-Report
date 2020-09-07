@@ -1,0 +1,150 @@
+﻿{
+	"forms": {
+		"%report": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"00_TEST_AREA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_COLUMN": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_COMMON": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_CROSS_DATA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_EMPTY": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_FONT": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_LINE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BALLOON_SUBTOTALLINE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"BORDERS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"control_border": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"control_borderColor": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"control_computations": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"control_textAlign_LCRD": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"control_textBackColor": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"control_textFrontColor": {
+			"timeStamp": "2020-09-07T08:57:50.000Z"
+		},
+		"control_textStyle": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"embeded": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"FIELDS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"HDI_CONTROL": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"HDI_PATH_PICKER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"MESSAGE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_CODE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_DESTINATION": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_HEADER_AND_FOOTER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_OPTIONS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_TEMPLATES": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_TOOLBAR_DATA": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_TOOLBAR_GRAPHIC": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_TOOLBAR_H&F": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"NQR_TOOLBAR_REPORT_TYPE": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"parent_form": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"PATH PICKER": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"SETTINGS": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"test": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		},
+		"widget": {
+			"timeStamp": "2020-09-07T08:57:50.000Z",
+			"destination": "detailScreen"
+		}
+	}
+}
